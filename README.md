@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI+Black&duration=3000&random=false&width=435&lines=Hi%2C;I'm+Paul,+French+Developper)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI+Black&duration=3000&random=false&width=435&lines=Hi%2C;I'm+Paul5225,+French+Developper)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Paul5225-P&label=Profile%20views&color=0e75b6&style=flat" alt="Paul5225-P" /> </p>
 
